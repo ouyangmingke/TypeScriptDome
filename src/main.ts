@@ -1,1 +1,6 @@
 import './ts/基础类型'
+import './ts/接口'
+import './ts/类'
+import './ts/函数'
+import './ts/泛型'
+import './ts/声明文件和内置对象'

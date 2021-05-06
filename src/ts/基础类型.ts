@@ -1,5 +1,6 @@
 // 基础类型
 (() => {
+    console.log("==============基础类型================")
     // 布尔类型 --> boolean
     let isDone: boolean = false;
     isDone = true;
@@ -104,4 +105,5 @@
     b10 = 'abc'
     console.log(b10 as any);
 
+    
 })()
