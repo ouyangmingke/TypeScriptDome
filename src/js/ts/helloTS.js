@@ -1,3 +1,5 @@
+// 在命令行上，运行 TypeScript 编译器 手动编译 ts
+// tsc helloTS.ts
 (function () {
     // TS 有类型注解
     function sayhi(str) {
