@@ -1,5 +1,5 @@
 // 引入文件
-//import jQuery from 'jquery'
+import jQuery from 'jquery'
 
 (() => {
     console.log("==============声明文件================");
