@@ -8,4 +8,4 @@
 // 定义操作
 // 现在使用的是官方的声明文件
 // npm install @types/jquery
-//declare var jQuery: (selector: string) => any;
+declare var jQuery: (selector: string) => any;
